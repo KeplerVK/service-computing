@@ -1,0 +1,20 @@
+2019/10/29 14:07:04 agenda register -u ChenNian -p 123 -e 333@qq.com
+2019/10/29 14:07:04 Register succeed!
+2019/10/29 14:07:39 agenda register -u XiaoBei -p 4567 -e 666@qq.com
+2019/10/29 14:07:39 Register succeed!
+2019/10/29 14:08:37 agenda login -u ChenNian -p 23
+2019/10/29 14:08:37 Password is incorrect!
+2019/10/29 14:08:48 agenda login -u ChenNian -p 123
+2019/10/29 14:08:48 Login successfully!
+2019/10/29 14:11:21 agenda login -u XiaoBei -p 4567
+2019/10/29 14:11:21 You have already logged in. 
+2019/10/29 14:12:48 Agenda logout
+2019/10/29 14:12:48 Logout successfully!
+2019/10/29 14:13:14 agenda login -u Xixi -p 7899
+2019/10/29 14:13:14 Username is not correct.
+2019/10/29 14:16:18 agenda login -u ChenNian -p 1223
+2019/10/29 14:16:18 Password is incorrect!
+2019/10/29 14:16:22 agenda login -u ChenNian -p 123
+2019/10/29 14:16:22 Login successfully!
+2019/10/29 14:18:01 Agenda logout
+2019/10/29 14:18:01 Logout successfully!
